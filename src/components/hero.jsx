@@ -9,7 +9,7 @@ function Hero(){
                <div className="flex "><p className="flex  mt-10 "><marquee> <b>your smile our passion</b></marquee> </p></div> 
             
                 
-                
+         
             </div>
        
             

@@ -3,11 +3,9 @@ import logo from "../assets/faz.jpg"
 import { Link } from "react-router-dom"
 function Menu() {
     const [open,setOpen]=useState(true)
-    const handleClick =(e)=>{
+    
         // console.log("we clicked again",e.target)
-        setOpen(!open)
-        console.log(open)
-    }
+
     return(
         <div className="flex h-16 w-full justify-between p-2 bg-gradient-to-tr from-slate-500 via via-white ">
             <div className="flex justify-start items-center gap-2 font-bold lg:flex" >

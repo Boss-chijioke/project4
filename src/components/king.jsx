@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom"
+
 function King (){
     return(
         <div className="flex flex-1 justify-center flex-col  p-8">
