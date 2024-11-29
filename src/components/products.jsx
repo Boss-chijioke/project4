@@ -1,4 +1,4 @@
-import mnm from "../assets/mnm.jpg"
+
 import p887 from "../assets/p887.jpg"
 import p880 from "../assets/p880.jpg"
 import p886 from "../assets/p886.jpg"
@@ -7,7 +7,7 @@ import p839 from "../assets/p839.jpg"
 import p883 from "../assets/p883.jpg"
 import p890 from "../assets/p890.jpg"
 import p892 from "../assets/p892.jpg"
-import p199 from "../assets/p199.jpg"
+
 
 function Products(){
     return(

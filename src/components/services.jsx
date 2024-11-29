@@ -1,5 +1,4 @@
-import me from "../assets/me.jpg"
-import p1 from "../assets/p1.jpg"
+
 import cici from "../assets/cici.jpg"
 import p19 from "../assets/p19.jpg"
 import p603 from "../assets/p603.jpg"
@@ -9,7 +8,7 @@ function Services(){
         <div className="flex   h-90 flex-col bg-gradient-to-tr from-white via-slate-500  ">
             
             <div className="flex-1 flex m-5 ">
-                <div className="flex-1  justify-center items-center flex text-2xl "><b className="flex justify-center items-center">Take the world's best quality Treatment </b> 
+                <div className="flex-1  justify-center items-center flex text-2xl "><b className="flex justify-center items-center">Take the world best quality Treatment </b> 
                 </div>
                 
             </div>
@@ -103,8 +102,8 @@ function Services(){
                 <div className="flex-1 p-4 m-4"><button className="bg-yellow-200 ring-black ring-4">visit our Diagnostic department</button></div>
                 </div>
             </div>
-          <div className="flex border flex-1 ">
-            <div className="flex-1 border m-10"><b className="justify-center flex items-center">Obstetrics and Gynecology DEPARTMENT</b>
+          <div className="flex  flex-1 ">
+            <div className="flex-1  m-10"><b className="justify-center flex items-center">Obstetrics and Gynecology DEPARTMENT</b>
             Get Diagnosed Get Treated Get Better
 
                    <li>OUR SERVICES:

@@ -21,7 +21,7 @@ function King (){
         <div className="flex flex-1  p-4">We provide comprehensie peventive care fpr women begining at puberty and continuing through all stages of life. 
             We listin carefully to our patients to determine an underlying health issues and working together to create specific individual awareness
             <br />Because we handle female healths we have personal understanding of women health issues and can work
-            one-on-one with all of our patients to meet their obsteric gynacologic needs We work closely with many Atlanta's specialists including internists, oncologists, determatologists, orthopedists</div>
+            one-on-one with all of our patients to meet their obsteric gynacologic needs We work closely with many Atlantas specialists including internists, oncologists, determatologists, orthopedists</div>
                       
         </div>
         <div className="flex flex-1 flex-col bg-gradient-to-tr from-slate-300 via-blue-200 rounded-xl  justify-center m-4">

@@ -1,13 +1,11 @@
-import { useState } from "react"
+// import { useState } from "react"
 import cat from "../assets/cat.jpg"
 import p52 from "../assets/p52.jpg"
 import hope from "../assets/hope.jpg"
 import p1 from "../assets/p1.jpg"
 
-import LoginForm from "./loginform"
-import RegisterForm from "./registerform"
 function Content(){
-    const [isLogin, setisLogin] =useState(false)
+    // const [isLogin, setisLogin] =useState(false)
     // const action = ()=>{setisLogin(!isLogin)}
     return(
  <div className=" h-90 border  flex  ">

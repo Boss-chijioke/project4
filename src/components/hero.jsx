@@ -4,9 +4,9 @@ function Hero(){
         <div className="flex ">
             
             
-            <div className=" flex-1  flex relative h-64 justify-center   ">
+            <div className=" flex-1  flex relative h-64 justify-center md-flex ">
                 <img src={p801} alt="p801" className="flex w-full h-44 absolute -z-90" />
-               <div className="flex "><p className="flex  mt-10 "><marquee> <b>your smile our passion</b></marquee> </p></div> 
+               <div className="flex "><p className="flex  mt-10 "><marquee> <b>Welcome to Boss chijioke Internationals Your smile our passion</b></marquee> </p></div> 
             
                 
          
