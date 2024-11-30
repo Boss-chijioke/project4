@@ -8,7 +8,7 @@ import Products from "./products";
 
 function Home(){
     return(
-        <div className="flex flex-col bg-slate-400 md:flex object-cover">
+        <div className="flex flex-col bg-slate-400 md:flex object-cover w-full">
             
             
             <Hero/>

@@ -8,7 +8,7 @@ import p809 from "../assets/p809.jpg"
 import p808 from "../assets/p808.jpg"
 function Me (){
     return(
-        <div className="flex p-6 h-100% mt-5  m-8 flex-row bg-gray-600 md:flex-col ">
+        <div className="flex p-6 h-100% mt-5  m-8 flex-col bg-gray-600 md:flex-col  ">
             <div className="flex flex-1  m-4 justify-center bg-slate-300"><b>Board Members</b> </div>
             <div className="flex flex-1  w-100%">
             <div className="flex flex-1 m-2 flex-col"><img src={p813} alt="p813" className="flex h-80 w-full" />
@@ -20,7 +20,7 @@ function Me (){
              </div>
 
              
-            <div className="flex flex-1  w-100% p-2 m-6">
+            <div className="flex flex-1  flex-col md:flex-row md:w-100% p-2 m-6">
             <div className="flex flex-1 m-2 justify-center flex-col"> <img src={p809} alt="p809" className="flex h-80" />
             <div className="flex-1 flex justify-center">Dr Logan Tyler Hall </div><p className="flex justify-center text-xl">Chief Nursing Officer (CNO)</p></div>
             <div className="flex flex-1 m-2 justify-center flex-col "><img src={p902} alt="p902" className="flex h-80" />

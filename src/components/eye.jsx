@@ -15,7 +15,7 @@ function Eye (){
               <div className="flex border   ">
               <div className="flex-1 "> <p><b className="flex justify-center">Your Vision Our Passion</b></p>
               <b className="flex justify-center">Caring for your vision enhancing your life</b>
-              <div className=" flex-1 p-4 text-lg m-2"><p className="flex text-balance text-lg">Professional and Expertise-Focused  </p> Our team of experienced eye care professionals personalised services to meet your unique needs. From routine exams to complex surgeries, we'av got you covered </div>
+              <div className=" flex-1 p-4 text-lg m-2"><p className="flex text-balance text-lg">Professional and Expertise-Focused  </p> Our team of experienced eye care professionals personalised services to meet your unique needs. From routine exams to complex surgeries, we got you covered </div>
               <div className=" flex-1 p-4 text-lg m-2"><p className="flex text-balance text-lg">See the world with clarity and confidence </p> Your eyes are precious. Schedule regular check-ups to protect them 
              </div>
              <div className=" flex-1  p-4 text-lg m-2"><p className="flex text-balance text-lg">Seeing is believing</p> Protect your eyes from harm. Wear sunglasses with UV protection and safety googles when necessary 
