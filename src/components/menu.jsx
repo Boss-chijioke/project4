@@ -13,7 +13,7 @@ function Menu() {
               
             </div>
             {open ? (
-            <div className={`justify-end flex-1 md:flex   flex-col absolute top-16 md:top-0 md:w-full flex  right-0 md:flex-row w-1/3 gap-4 p-4 `}>
+            <div className={`justify-end flex-1 md:flex  z-10  flex-col absolute top-16 md:top-0 md:w-full flex  right-0 md:flex-row w-1/3 gap-4 p-4 `}>
                 <span className="menu">
                     <Link to="/" className="menu_a">
                     Home

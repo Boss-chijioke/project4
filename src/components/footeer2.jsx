@@ -1,11 +1,11 @@
 import p830 from "../assets/p830.jpg"
 function Footeer2 (){
     return(
-        <div className="flex  h-full bg-gray-500 w-30 md:flex-row flex-col">
+        <div className="flex  h-full bg-gray-500 w-30 md:flex-row ">
           <div className="flex-1 flex  flex-col justify-center items-center p-2"><b>Our Location and Offices</b> 
-             <div className="flex-1 flex   p-4 ">
-                  <div className="flex-1 flex  md:flex-col flex-row p-4 ">
-                    <div className="flex-1 flex    ">
+             <div className="flex-1 flex flex-col  p-4 ">
+                  <div className="flex-1 flex  md:flex-row flex-col p-4 ">
+                    <div className="flex-1 flex flex-col md:flex-row   ">
                      <div className="flex-1 flex   p-4 m-2">200 Boss chijioke Internationals on M5G 2C4, Canada <br />Phone:+14163403111</div>
                      <div className="flex-1 flex  p-4 m-2">Steelhouse Ln Birmingham B4 6NH, UK <br />Phone:+44 1213339999</div>
                     </div>

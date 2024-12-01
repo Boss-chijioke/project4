@@ -123,35 +123,9 @@ function Services(){
             <div className="flex-1 border"><img src={p603} alt="p603" className="w-full"/></div>
             </div>  
 
-            <div className="flex border flex-1 ">bbbbb
-            <div className="flex-1 border"><b className="justify-center flex items-center">Pharmacy DEPARTMENT</b>
-            Get Diagnosed Get Treated Get Better
+           
 
-                   <li>OUR SERVICES:
-                        <ul>X-ray</ul>
-                        <ul>CT Scan</ul>
-                        <ul>Mental Disorder</ul>
-                        <ul>Mammography</ul>
-                        <ul>Laoratory Tests</ul>
-                  </li>
-            </div>
-            <div className="flex-1 border"></div>
-            </div>  
-
-            <div className="flex border flex-1 ">bbbbb
-            <div className="flex-1 border"><b className="justify-center flex items-center">Psychiatric DEPARTMENT</b>
-            Get Diagnosed Get Treated Get Better
-
-                   <li>OUR SERVICES:
-                        <ul>X-ray</ul>
-                        <ul>CT Scan</ul>
-                        <ul>Mental Disorder</ul>
-                        <ul>Mammography</ul>
-                        <ul>Laoratory Tests</ul>
-                  </li>
-            </div>
-            <div className="flex-1 border"></div>
-            </div>  
+            
 
         </div>
     )

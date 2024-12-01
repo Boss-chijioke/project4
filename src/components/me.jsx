@@ -8,10 +8,10 @@ import p809 from "../assets/p809.jpg"
 import p808 from "../assets/p808.jpg"
 function Me (){
     return(
-        <div className="flex p-6 h-100% mt-5  m-8 flex-col bg-gray-600 md:flex-col  ">
+        <div className="flex p-6 h-100% mt-5  m-8 flex-col  bg-gray-600   ">
             <div className="flex flex-1  m-4 justify-center bg-slate-300"><b>Board Members</b> </div>
-            <div className="flex flex-1  w-100%">
-            <div className="flex flex-1 m-2 flex-col"><img src={p813} alt="p813" className="flex h-80 w-full" />
+            <div className="flex flex-1 flex-col md:flex-row w-100%">
+            <div className="flex flex-1 m-2 flex-col "><img src={p813} alt="p813" className="flex h-80 w-full" />
             <div className="flex-1 flex justify-center">Dr Rui Zhang </div><p className="flex text-xl justify-center">Service Line Director <br />And specialist</p></div>
             <div className="flex flex-1 m-2 justify-center flex-col "><img src={p601} alt="p601" className="flex h-80" /> 
             <div className="flex-1 flex justify-center">Dr Eily Lauren Thompson </div><p className="flex justify-center text-xl">Chief  Medical officer</p></div>

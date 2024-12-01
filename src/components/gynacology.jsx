@@ -1,13 +1,12 @@
 import p52 from "../assets/p52.jpg"
-import p603 from "../assets/kkk.jpg"
 import kkk from "../assets/kkk.jpg"
-import p613 from "../assets/p613.jpg"
-
+import p18 from "../assets/p18.jpg"
+import p603 from "../assets/p603.jpg"
 function Gynacology (){
     return(
         <div className="flex border justify-center flex-col    ">
         <div className="flex flex-1 border flex-col justify-center relative m-2 h-90 ">
-        <div className="flex flex-1 border justify-center  "><img src={kkk} alt="p613" className=" h-30 w-full " />
+        <div className="flex flex-1 border justify-center  "><img src={kkk} alt="p613" className=" h-30 w-screen " />
         
         </div>
         <div className="flex flex-1 border p-2 h-70 m-10 bg-blue-200">We provide comprehensie peventive care fpr women begining at puberty and continuing through all stages of life. 
@@ -18,17 +17,17 @@ function Gynacology (){
         </div>
 
         <div className="flex flex-1 border  ">
-        <div className=" flex-1 border justify-center  flex-col "><img src={p52} alt="p52" className=" w-full   justify-center object-cover " />
+        <div className=" flex-1 border justify-center  flex-col "><img src={p52} alt="p52" className=" w-screen   justify-center object-cover " />
         <div className="flex border justify-center"><b>Comprehensive Pregnacy Care</b></div>
         <div className="flex border"><p>A healthy delivery begins before the labor pain start our team will care for you and your baby from prenatal through delivery
             and post-partum  </p></div>
         </div>
-        <div className="flex flex-1 border justify-center flex-col  "><img src={p603} alt="p603" className="w-full h-50 flex justify-center " />
+        <div className="flex flex-1 border justify-center flex-col  "><img src={p603} alt="p603" className="w-screen h-50 flex justify-center " />
         <div className="flex border justify-center"><b>Gynacologic Care</b></div>
         <div className="flex border"><p>A healthy delivery begins before the labor pain start our team will care for you and your baby from prenatal through delivery
             and post-partum  </p></div>
         </div>
-        <div className="flex flex-1 border flex-col"><img src={kkk} alt="kkk" className=" w-full   justify-center h-60 " />
+        <div className="flex flex-1 border flex-col"><img src={p18} alt="kkk" className=" w-screen  justify-center h-60 " />
         <div className="flex-1 border">iii</div>
         </div>
         
@@ -57,22 +56,8 @@ function Gynacology (){
             to provide comprehensive 100% cutting-edge care for even the most complex conditions </div>
                       
         </div>
-        <div className="flex flex-1 border flex-col justify-center">
-        <div className="flex flex-1 border justify-center"><b>About us</b></div>
-        <div className="flex flex-1 border p-4">We provide comprehensie peventive care fpr women begining at puberty and continuing through all stages of life. 
-            We listin carefully to our patients to determine an underlying health issues and working together to create specific individual awareness
-            <br />Because we handle female healths we have personal understanding of women health issues and can work
-            one-on-one with all of our patients to meet their obsteric gynacologic needs We work closely with many Atlanta's specialists including internists, oncologists, determatologists, orthopedists</div>
-                      
-        </div>
-        <div className="flex flex-1 border flex-col justify-center">
-        <div className="flex flex-1 border justify-center"><b>About us</b></div>
-        <div className="flex flex-1 border  p-4">We provide comprehensie peventive care fpr women begining at puberty and continuing through all stages of life. 
-            We listin carefully to our patients to determine an underlying health issues and working together to create specific individual awareness
-            <br />Because we handle female healths we have personal understanding of women health issues and can work
-            one-on-one with all of our patients to meet their obsteric gynacologic needs We work closely with many Atlanta's specialists including internists, oncologists, determatologists, orthopedists</div>
-                      
-        </div>
+       
+       
         
         
         </div>

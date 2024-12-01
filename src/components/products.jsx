@@ -11,7 +11,7 @@ import p892 from "../assets/p892.jpg"
 
 function Products(){
     return(
-        <div className="flex p-6 h-100% mt-5  m-8 flex-col bg-gray-100    ">
+        <div className="md:flex p-6 h-100% mt-5  m-8 flex-col bg-gray-100 hidden   ">
             {/* <img src={p199} alt="p199" className=" flex w-full h-52" /> */}
         <div className="flex flex-1  m-4 justify-center bg-slate-300"><b>Awards</b> </div>
         <div className="flex flex-1  w-100%">
