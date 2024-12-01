@@ -1,5 +1,5 @@
 import p52 from "../assets/p52.jpg"
-import p603 from "../assets/p603.jpg"
+import p603 from "../assets/kkk.jpg"
 import kkk from "../assets/kkk.jpg"
 import p613 from "../assets/p613.jpg"
 
@@ -7,8 +7,8 @@ function Gynacology (){
     return(
         <div className="flex border justify-center flex-col    ">
         <div className="flex flex-1 border flex-col justify-center relative m-2 h-90 ">
-        <div className="flex flex-1 border justify-center  "><img src={p613} alt="p613" className="absolute h-20 w-full  -z-10" />
-        <p className="flex m-4">Gynacoloy Depatment Efficient and quality health counsel wih highly qualified specialists </p>
+        <div className="flex flex-1 border justify-center  "><img src={kkk} alt="p613" className=" h-30 w-full " />
+        
         </div>
         <div className="flex flex-1 border p-2 h-70 m-10 bg-blue-200">We provide comprehensie peventive care fpr women begining at puberty and continuing through all stages of life. 
             We listin carefully to our patients to determine an underlying health issues and working together to create specific individual awareness

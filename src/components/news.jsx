@@ -1,7 +1,8 @@
 function News (){
     return(
         <div className="flex border flex-col">
-           <div className="flex-1 flex border p-2 m-2 flex-col">  <div className="flex-1 flex border p-2  "> "Sleepless Nights Linked to Heart Disease" </div><br />Researchers have found that chronic sleep deprivation 
+          <div className="flex-1 flex  justify-center"><b className="flex justify-center items-center ">Latest News</b></div>
+           <div className="flex-1 flex  p-2 m-2 flex-col">  <div className="flex-1 flex border p-2  "> "Sleepless Nights Linked to Heart Disease" </div><br />Researchers have found that chronic sleep deprivation 
            increases the risk of cardiovascular disease, including hearth attacks and strokes <br />Cardiovascular disease is the leading cause of death in women, and poor sleep is a major health issue for women, especially in midlife.
 A new study finds long-term sleep issues and heart disease are closely linked for women.
 Women who had chronic insomnia or who slept less than 5 hours a night had a higher risk of heart disease.
@@ -19,7 +20,7 @@ The new findings suggest that long-term sleep issues and heart disease are close
 
   </div>
           
-             <div className="flex flex-1 border p-2 m-2 flex-col">  <div className="flex flex-1 border p-2 m-2"><p className="flex text-xl">"Malaria Cases Decline Worldwide"</p> </div><br />The world health organisation(WHO) has announced a significant decline in malaria cases and deaths worldwide 
+             <div className="flex flex-1  p-2 m-2 flex-col">  <div className="flex flex-1 border p-2 m-2"><p className="flex text-xl">"Malaria Cases Decline Worldwide"</p> </div><br />The world health organisation(WHO) has announced a significant decline in malaria cases and deaths worldwide 
            , thanks to increased efforts in prevention and treatment <br />
 Overview
 Malaria is a life-threatening disease spread to humans by some types of mosquitoes. It is mostly found in tropical countries. It is preventable and curable.
@@ -79,7 +80,7 @@ Progress in global malaria control is threatened by emerging resistance to insec
 
 Chemoprophylaxis
 Travellers to malaria endemic areas should consult their doctor several weeks before departure. The medical professional will determine which chemoprophylaxis d </div>
-           <div className="flex flex-1 border p-2 m-2">Sexually transmitted infections (STIs) <br />
+           <div className="flex flex-1  p-2 m-2">Sexually transmitted infections (STIs) <br />
 More than 30 different bacteria, viruses and parasites are known to be transmitted through sexual contact, including vaginal, anal and oral sex.
 .21 May 2024 <br />Key facts
 More than 1 million curable sexually transmitted infections (STIs) are acquired every day worldwide in people 15–49 years old, the majority of which are asymptomatic.
@@ -90,16 +91,16 @@ Human papillomavirus (HPV) infection is associated with over 311 000 cervical ca
 1.1 million pregnant women were estimated to be infected with syphilis in 2022, resulting in over 390 000 adverse birth outcomes.
 STIs have a direct impact on sexual and reproductive health through stigmatization, infertility, cancers and pregnancy complications and can increase the risk of HIV.
 Drug resistance is a major threat to reducing the burden of STIs worldwide.</div>
-          <div className="flex flex-1 border p-2 m-2 flex-col">  <div className="flex flex-1 border p-2 m-2"><p>Comparing the COVID-19 Vaccines: </p> </div><br /> How Are They Different?
+          <div className="flex flex-1  p-2 m-2 flex-col">  <div className="flex flex-1  p-2 m-2"><p>Comparing the COVID-19 Vaccines: </p> </div><br /> How Are They Different?
 It's important to keep up with how well the updated vaccines are performing. We mapped out a comparison of the COVID vaccines in the United States.
 .1 week ago</div>
-<div className="flex flex-1 border p-2 m-2">Note: The Johnson & Johnson (Janssen) COVID-19 vaccine expired as of May 6, 2023, and is no longer available in the U.S. Those who did get the J&J shot are considered up-to-date when they get one updated (2023–2024 formula) COVID vaccine.
+<div className="flex flex-1  p-2 m-2">Note: The Johnson & Johnson (Janssen) COVID-19 vaccine expired as of May 6, 2023, and is no longer available in the U.S. Those who did get the J&J shot are considered up-to-date when they get one updated (2023–2024 formula) COVID vaccine.
 
 Information in this article was accurate at the time of original publication. Because information about COVID changes rapidly, we encourage you to visit the websites of the Centers for Disease Control & Prevention (CDC), World Health Organization (WHO), and your state and local government. <br />
 COVID-19 is now in its fifth year, and the subvariants of the Omicron strain continue to drive infections in the United States. The good news is that vaccines, which have been updated each year since 2022, are still expected to be effective at preventing severe disease, hospitalization, and death from COVID.
 
 In the U.S., infants, children, and adults ages 6 months and older are eligible to be vaccinated, according to the Centers for Disease Control and Prevention (CDC).</div>
-<div className="flex flex-1 border p-2 m-2 flex-col "> <div className="flex flex-1 border p-2 m-2"><p>A Victory</p></div>Cincinnati Children’s has once again been named to U.S. News & World Report’s Best Children’s Hospitals Honor Roll for the 2024-25 rankings. The Honor Roll is comprised of the top 10 pediatric hospitals in the nation out of 108 considered.
+<div className="flex flex-1  p-2 m-2 flex-col "> <div className="flex flex-1  p-2 m-2"><p>A Victory</p></div>Cincinnati Children’s has once again been named to U.S. News & World Report’s Best Children’s Hospitals Honor Roll for the 2024-25 rankings. The Honor Roll is comprised of the top 10 pediatric hospitals in the nation out of 108 considered.
 
 This year, Cincinnati Children’s ranked No. 1 in three specialties and placed in the top 10 for all 10 ranked specialties, making it the only health system in the 13-state Midwest region—and one of just two nationwide—to achieve this distinction.
 
@@ -110,7 +111,7 @@ Additionally, Pediatric & Adolescent Behavioral Health has been added to the ran
 “To be named one of the best pediatric hospitals in the nation for more than 15 years is a distinct honor that each and every one of our team members should celebrate,” says Steve Davis, MD, MMM, president and CEO of Cincinnati Children’s. “Their relentless commitment to our patients and families has made Cincinnati Children’s a national leader where the sickest kids around the world can come for the best possible outcomes. I’m so proud to walk the halls of our health system and see researchers, caregivers and support staff collaborating with a ‘how might we?’ mindset to providing the highest quality care and researching the latest breakthroughs in medicine. These rankings are a reminder for us to continue pushing the boundaries of what is possible so that all kids can live their healthiest lives.”
 
 Hospitals were ranked based on key clinical data that includes measures such as patient outcomes, resources devoted directly to patient care, and patient safety. The goal of these rankings is to identify hospitals that provide the highest quality care for children with the most serious or complex medical issues.</div>
-<div className="flex flex-1 border p-2 m-2 flex-col"> <div className="flex flex-1 border p-2 m-2"><p>2024 World No Tobacco Day awards – the winners</p></div>Each year, the World Health Organization (WHO) honours exceptional individuals and organizations across its six regions for their outstanding contributions to tobacco control through the prestigious World No Tobacco Day Awards. The recipients of the 2024 World No Tobacco Day awards, by WHO region, are as follows:
+<div className="flex flex-1  p-2 m-2 flex-col"> <div className="flex flex-1  p-2 m-2"><p>2024 World No Tobacco Day awards – the winners</p></div>Each year, the World Health Organization (WHO) honours exceptional individuals and organizations across its six regions for their outstanding contributions to tobacco control through the prestigious World No Tobacco Day Awards. The recipients of the 2024 World No Tobacco Day awards, by WHO region, are as follows:
 
 African Region
 Mr Yankuba Darboe, Commissioner General, Gambia Revenue Authority, Republic of the Gambia
@@ -149,9 +150,7 @@ Western Pacific Region
 Hangzhou Municipal People’s Government, People’s Republic of China
 Mr Jose Enrique S. Garcia III, Provincial Governor of Bataan, Republic of the Philippines
 HealthBridge Foundation of Canada, HealthBridge Viet Nam, Socialist Republic of Viet Nam</div>
-<div className="flex flex-1 border p-2 m-2"></div>
-<div className="flex flex-1 border p-2 m-2"></div>
-<div className="flex flex-1 border p-2 m-2"></div>
+
         </div>
     )
 }
