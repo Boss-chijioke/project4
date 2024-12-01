@@ -49,22 +49,22 @@ function Services(){
             
             <div className=" flex-1 flex h-60 "> 
                 <div className="flex-1 justify-center "><img src={p19} alt="p19" className="  w-full p-8  " /></div>
-                <div className=" flex-1 justify-center items-center "><b className="justify-center flex items-center">Radiology DEPARTMENT</b>
-                
-                Get Diagnosed Get Treated Get Better
+                <div className=" flex-1 justify-center items-center "><b className="justify-center flex items-center">Obstetrics and Gynecology DEPARTMENT</b>
+            Get Diagnosed Get Treated Get Better
 
-                <li>OUR SERVICES:
-                    <ul>X-ray</ul>
-                    <ul>CT Scan</ul>
-                    <ul>Ultrasound</ul>
-                    <ul>Mammography</ul>
-                    <ul>Laoratory Tests</ul>
-                </li>
-                <div className="flex-1 p-4 m-4"><span className="menu">
-                <Link to="/diagnostic" className="menu_a">
-                Visit our Radiology Department
+                   <li>OUR SERVICES:
+                        <ul>X-ray</ul>
+                        <ul>CT Scan</ul>
+                        <ul>Mental Disorder</ul>
+                        <ul>Mammography</ul>
+                        <ul>Laoratory Tests</ul>
+                  </li>
+                <div className="flex-1 p-4  m-4"><span className="menu">
+                <Link to="/gynacology" className="menu_a">
+               Visit our Gynacology  Departmennt
                 </Link>
-            </span></div>
+            </span>
+                  </div>
                 
                 </div>
             </div>
@@ -99,26 +99,31 @@ function Services(){
                     <ul>Mammography</ul>
                     <ul>Laoratory Tests</ul>
                 </li>
-                <div className="flex-1 p-4 m-4"><button className="bg-yellow-200 ring-black ring-4">visit our Diagnostic department</button></div>
+                 <div className="flex-1 p-4 m-4"><span className="menu">
+                <Link to="/diagnostic" className="menu_a">
+                Visit our Radiology Department
+                </Link>
+            </span></div>
                 </div>
             </div>
           <div className="flex  flex-1 ">
-            <div className="flex-1  m-10"><b className="justify-center flex items-center">Obstetrics and Gynecology DEPARTMENT</b>
-            Get Diagnosed Get Treated Get Better
+            <div className="flex-1  m-10"><b className="justify-center flex items-center">Radiology DEPARTMENT</b>
+                
+                Get Diagnosed Get Treated Get Better
 
-                   <li>OUR SERVICES:
-                        <ul>X-ray</ul>
-                        <ul>CT Scan</ul>
-                        <ul>Mental Disorder</ul>
-                        <ul>Mammography</ul>
-                        <ul>Laoratory Tests</ul>
-                  </li>
-                  <div className="flex-1 p-4  m-4"><span className="menu">
-                <Link to="/gynacology" className="menu_a">
-               Visit our Gynacology  Departmennt
+                <li>OUR SERVICES:
+                    <ul>X-ray</ul>
+                    <ul>CT Scan</ul>
+                    <ul>Ultrasound</ul>
+                    <ul>Mammography</ul>
+                    <ul>Laoratory Tests</ul>
+                </li>
+                  <div className="flex-1 p-4 m-4"><span className="menu">
+                <Link to="/diagnostic" className="menu_a">
+                Visit our Radiology Department
                 </Link>
-            </span>
-                  </div>
+            </span></div>
+               
             </div>
             <div className="flex-1 border"><img src={p603} alt="p603" className="w-full"/></div>
             </div>  

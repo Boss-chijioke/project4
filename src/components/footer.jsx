@@ -6,13 +6,21 @@ function Footer(){
 
         <div className="flex-1 flex ">
             <div className="flex-1 "> 
-            <span className="menu">
-                <Link to="/news" className="menu_a">
+            <span>
+                <Link to="/news" >
                 News
                 </Link>
             </span></div>
-            </div><div className="flex-1 "> <button>Bill payment</button>
-            </div><div className="flex-1 "> <button>Insurance plan</button>
+            </div><div className="flex-1 "> <span>
+                <a href="/bills">
+                Bills 
+                </a>
+            </span>
+            </div><div className="flex-1 ">  <span>
+                <a href="/insurance">
+                Insurance
+                </a>
+            </span>
             </div>
         <div className="flex-1 "><button>providers</button></div>
             

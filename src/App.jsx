@@ -15,6 +15,8 @@ import Diagnostic from "./components/diagnostic"
 import Gynacology from "./components/gynacology"
 import Footeer2 from "./components/footeer2"
 import News from "./components/news"
+import Insurance from "./components/insurance"
+import Bills from "./components/bills"
 
 export default function App() {
   return (
@@ -33,6 +35,8 @@ export default function App() {
       <Route path="/diagnostic" element={<Diagnostic/>}/>
       <Route path="/gynacology"element={<Gynacology/>}/>
       <Route path="/news"element={<News/>}/>
+      <Route path="/insurance"element={<Insurance/>}/>
+      <Route path="bills"element={<Bills/>}/>
     </Routes>
     <Footeer2/>
     <Footer/>
